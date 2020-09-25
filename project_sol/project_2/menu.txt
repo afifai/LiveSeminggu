@@ -1,0 +1,8 @@
+ayam goreng#12000
+nasi goreng#18000
+mie goreng#15000
+sate ayam#20000
+pisang goreng#5000
+es jeruk#10000
+es kelapa#8000
+jus alpukat#15000
